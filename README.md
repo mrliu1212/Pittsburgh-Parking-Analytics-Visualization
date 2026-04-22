@@ -81,3 +81,20 @@ Start here: `main_notebook.ipynb` for final results and visualizations
 - Demand prediction models  
 - Pricing optimization  
 - Interactive dashboard (Streamlit or similar)
+
+
+## Data Availability
+
+Due to GitHub file size limitations, the raw datasets are not included in this repository.
+
+To reproduce this project:
+1. Download the datasets from the links in the **Datasets** section above  
+2. Place the files into the following directory:
+
+```
+cleaning/dataset_cleaning/raw/
+```
+
+Make sure the folder structure matches the project layout so the notebooks can load the data correctly.
+
+After placing the data, you can run the cleaning and analysis notebooks as provided.
