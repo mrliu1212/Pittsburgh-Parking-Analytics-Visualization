@@ -58,15 +58,16 @@ Start here: `main_notebook.ipynb` for final results and visualizations
 
 ## Project Structure
 
+```
 .
-├── main_notebook.ipynb        # Final analysis and visualizations  
-├── cleaning/  
-│   ├── dataset_cleaning/  
-│   │   ├── raw/               # Raw datasets from WPRDC  
-│   │   ├── *.ipynb            # Cleaning & EDA per dataset  
-│   ├── datasets_join.ipynb    # Key normalization & merging  
-├── final_datasets/            # Cleaned and merged datasets  
-
+├── main_notebook.ipynb        # Final analysis and visualizations
+├── cleaning/
+│   ├── dataset_cleaning/
+│   │   ├── raw/               # Raw datasets from WPRDC
+│   │   └── *.ipynb            # Cleaning & EDA per dataset
+│   └── datasets_join.ipynb    # Key normalization & merging
+└── final_datasets/            # Cleaned and merged datasets
+```
 ---
 
 ## Notes
