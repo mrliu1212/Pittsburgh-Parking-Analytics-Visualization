@@ -1,0 +1,126 @@
+_id,zone,as_of,spaces,rate,rate_description,meters,type
+1,301 - Sheridan Harvard Lot,2017-03-06,41,1,$1.00/HR,2,off-street
+2,302 - Sheridan Kirkwood Lot,2017-03-06,114,1,$1.00/HR,3,off-street
+3,304 - Tamello Beatty Lot,2017-03-06,76,1,$1.00/HR,2,off-street
+4,307 - Eva Beatty Lot,2017-03-06,130,1,$1.00/HR,2,off-street
+5,311 - Ansley Beatty Lot,2017-03-06,23,1,$1.00/HR,1,off-street
+6,314 - Penn Circle NW Lot,2017-03-06,125,1,$1.00/HR,2,off-street
+7,321 - Beacon Bartlett Lot,2017-03-06,69,1,$1.00/HR,3,off-street
+8,322 - Forbes Shady Lot,2017-03-06,59,1,$1.00/HR,3,off-street
+9,323 - Douglas Phillips Lot,2017-03-06,45,1,$1.00/HR,2,off-street
+10,324 - Forbes Murray Lot,2017-03-06,72,1,$1.00/HR,3,off-street
+11,325 - JCC/Forbes Lot,2017-03-06,69,1,$1.00/HR,2,off-street
+12,328 - Ivy Bellefonte Lot,2017-03-06,74,2,$2.00/HR,5,off-street
+13,331 - Homewood Zenith Lot,2017-03-06,24,1,$1.00/HR,1,off-street
+14,334 - Taylor Street Lot,2017-03-06,26,1,$1.00/HR,1,off-street
+15,335 - Friendship Cedarville Lot,2017-03-06,80,1,$1.00/HR,2,off-street
+16,337 - 52nd & Butler Lot,2017-03-06,12,1,$1.00/HR,1,off-street
+17,338 - 42nd & Butler Lot,2017-03-06,22,1,$1.00/HR,1,off-street
+18,341 - 18th & Sidney Lot,2017-03-06,45,1,$1.00/HR,2,off-street
+19,342 - East Carson Lot,2017-03-06,35,1,$1.00/HR,2,off-street
+20,343 - 19th & Carson Lot,2017-03-06,27,1,$1.00/HR,1,off-street
+21,344 - 18th & Carson Lot,2017-03-06,41,1,$1.00/HR,2,off-street
+22,345 - 20th & Sidney Lot,2017-03-06,80,1,$1.00/HR,2,off-street
+23,351 - Brownsville & Sandkey Lot,2017-03-06,80,1,$1.00/HR,2,off-street
+24,354 - Walter/Warrington Lot,2017-03-06,15,1,$1.00/HR,1,off-street
+25,355 - Asteroid Warrington Lot,2017-03-06,13,1,$1.00/HR,1,off-street
+26,357 - Shiloh Street Lot,2017-03-06,73,1,$1.00/HR,3,off-street
+27,361 - Brookline Lot,2017-03-06,47,1,$1.00/HR,1,off-street
+28,363 - Beechview Lot,2017-03-06,17,1,$1.00/HR,1,off-street
+29,369 - Main/Alexander Lot,2017-03-06,29,1,$1.00/HR,1,off-street
+30,371 - East Ohio Street Lot,2017-03-06,88,1,$1.00/HR,3,off-street
+31,375 - Oberservatory Hill Lot,2017-03-06,23,1,$1.00/HR,1,off-street
+32,401 - Downtown 1,2017-03-06,276,4,$4.00/HR,42,on-street
+33,402 - Downtown 2,2017-03-06,351,4,$4.00/HR,59,on-street
+34,403 - Uptown,2017-03-06,756,1.5,$1.50/HR,69,on-street
+35,404 - Strip Disctrict,2017-03-06,465,1.5,$1.50/HR,58,on-street
+36,405 - Lawrenceville,2017-03-06,188,1,$1.00/HR,30,on-street
+37,406 - Bloomfield (On-street),2017-03-06,550,1,$1.00/HR,71,on-street
+38,407 - Oakland 1,2017-03-06,220,3,$3.00/HR,31,on-street
+39,408 - Oakland 2,2017-03-06,313,3,$3.00/HR,38,on-street
+40,409 - Oakland 3,2017-03-06,521,3,$3.00/HR,64,on-street
+41,410 - Oakland 4,2017-03-06,570,3,$3.00/HR,46,on-street
+42,411 - Shadyside,2017-03-06,349,1.5,$1.50/HR,52,on-street
+43,412 - East Liberty,2017-03-06,628,1.5,$1.50/HR,57,on-street
+44,413 - Squirrel Hill,2017-03-06,352,1.5,$1.50/HR,55,on-street
+45,414 - Mellon Park,2017-03-06,76,1,$1.00/HR,4,on-street
+46,415 - SS & SSW,2017-03-06,670,1.5,$1.50/HR,101,on-street
+47,416 - Carrick,2017-03-06,62,0.5,$0.50/HR,9,on-street
+48,417 - Allentown,2017-03-06,25,0.5,$0.50/HR,3,on-street
+49,418 - Beechview,2017-03-06,87,1,$1.00/HR,8,on-street
+50,419 - Brookline,2017-03-06,235,1,$1.00/HR,21,on-street
+51,420 - Mt. Washington,2017-03-06,80,1,$1.00/HR,18,on-street
+52,421 - NorthSide,2017-03-06,639,1,$1.00/HR,81,on-street
+53,422 - Northshore,2017-03-06,226,3,$3.00/HR,30,on-street
+54,423 - West End,2017-03-06,49,1,$1.00/HR,6,on-street
+55,424 - Technology Drive,2017-03-06,51,,*SPECIAL,5,on-street
+56,425 - Bakery Sq,2017-03-06,43,2,$2.00/HR,4,on-street
+57,301 - Sheridan Harvard Lot,2018-01-19,41,1,$1.00/HR,2,off-street
+58,302 - Sheridan Kirkwood Lot,2018-01-19,114,1,$1.00/HR,3,off-street
+59,304 - Tamello Beatty Lot,2018-01-19,76,1,$1.00/HR,2,off-street
+60,307 - Eva Beatty Lot,2018-01-19,130,1,$1.00/HR,2,off-street
+61,311 - Ansley Beatty Lot,2018-01-19,23,1,$1.00/HR,1,off-street
+62,314 - Penn Circle NW Lot,2018-01-19,125,1,$1.00/HR,2,off-street
+63,321 - Beacon Bartlett Lot,2018-01-19,69,1,$1.00/HR,3,off-street
+64,322 - Forbes Shady Lot,2018-01-19,59,1,$1.00/HR,3,off-street
+65,323 - Douglas Phillips Lot,2018-01-19,45,1,$1.00/HR,2,off-street
+66,324 - Forbes Murray Lot,2018-01-19,72,1,$1.00/HR,3,off-street
+67,325 - JCC/Forbes Lot,2018-01-19,69,1,$1.00/HR,2,off-street
+68,328 - Ivy Bellefonte Lot,2018-01-19,74,2,$2.00/HR,5,off-street
+69,331 - Homewood Zenith Lot,2018-01-19,24,1,$1.00/HR,1,off-street
+70,334 - Taylor Street Lot,2018-01-19,26,1,$1.00/HR,1,off-street
+71,335 - Friendship Cedarville Lot,2018-01-19,80,1,$1.00/HR,2,off-street
+72,337 - 52nd & Butler Lot,2018-01-19,12,1,$1.00/HR,1,off-street
+73,338 - 42nd & Butler Lot,2018-01-19,22,1,$1.00/HR,1,off-street
+74,341 - 18th & Sidney Lot,2018-01-19,45,1,$1.00/HR,2,off-street
+75,342 - East Carson Lot,2018-01-19,35,1,$1.00/HR,2,off-street
+76,343 - 19th & Carson Lot,2018-01-19,27,1,$1.00/HR,1,off-street
+77,344 - 18th & Carson Lot,2018-01-19,41,1,$1.00/HR,2,off-street
+78,345 - 20th & Sidney Lot,2018-01-19,80,1,$1.00/HR,2,off-street
+79,351 - Brownsville & Sandkey Lot,2018-01-19,80,1,$1.00/HR,2,off-street
+80,354 - Walter/Warrington Lot,2018-01-19,15,1,$1.00/HR,1,off-street
+81,355 - Asteroid Warrington Lot,2018-01-19,13,1,$1.00/HR,1,off-street
+82,357 - Shiloh Street Lot,2018-01-19,73,1,$1.00/HR,3,off-street
+83,361 - Brookline Lot,2018-01-19,47,1,$1.00/HR,1,off-street
+84,363 - Beechview Lot,2018-01-19,17,1,$1.00/HR,1,off-street
+85,369 - Main/Alexander Lot,2018-01-19,29,1,$1.00/HR,1,off-street
+86,371 - East Ohio Street Lot,2018-01-19,88,1,$1.00/HR,3,off-street
+87,375 - Oberservatory Hill Lot,2018-01-19,23,1,$1.00/HR,1,off-street
+88,401 - Downtown 1,2018-01-19,299,4,$4.00/HR,42,on-street
+89,402 - Downtown 2,2018-01-19,373,4,$4.00/HR,59,on-street
+90,403 - Uptown,2018-01-19,690,1.5,$1.50/HR,70,on-street
+91,404 - Strip Disctrict,2018-01-19,428,1.5,$1.50/HR,58,on-street
+92,405 - Lawrenceville,2018-01-19,187,1,$1.00/HR,29,on-street
+93,406 - Bloomfield (On-street),2018-01-19,489,1,$1.00/HR,71,on-street
+94,407 - Oakland 1,2018-01-19,227,3,$3.00/HR,30,on-street
+95,408 - Oakland 2,2018-01-19,301,3,$3.00/HR,38,on-street
+96,409 - Oakland 3,2018-01-19,476,3,$3.00/HR,60,on-street
+97,410 - Oakland 4,2018-01-19,572,3,$3.00/HR,45,on-street
+98,411 - Shadyside,2018-01-19,345,1.5,$1.50/HR,52,on-street
+99,412 - East Liberty,2018-01-19,483,1.5,$1.50/HR,57,on-street
+100,413 - Squirrel Hill,2018-01-19,354,1.5,$1.50/HR,55,on-street
+101,414 - Mellon Park,2018-01-19,76,1,$1.00/HR,4,on-street
+102,415 - SS & SSW,2018-01-19,707,1.5,$1.50/HR,101,on-street
+103,416 - Carrick,2018-01-19,65,0.5,$0.50/HR,9,on-street
+104,417 - Allentown,2018-01-19,23,0.5,$0.50/HR,3,on-street
+105,418 - Beechview,2018-01-19,78,1,$1.00/HR,8,on-street
+106,419 - Brookline,2018-01-19,201,1,$1.00/HR,21,on-street
+107,420 - Mt. Washington,2018-01-19,98,1,$1.00/HR,17,on-street
+108,421 - NorthSide,2018-01-19,757,1,$1.00/HR,92,on-street
+109,422 - Northshore,2018-01-19,237,3,$3.00/HR,30,on-street
+110,423 - West End,2018-01-19,52,1,$1.00/HR,6,on-street
+111,424 - Technology Drive,2018-01-19,48,,*SPECIAL,5,on-street
+112,425 - Bakery Sq,2018-01-19,45,2,$2.00/HR,4,on-street
+113,426 - Hill District,2018-01-19,26,1,$1.00/HR,4,on-street
+114,HILL-DIST-2,2017-11-28,152,1.5,$1.50/HR,8,on-street
+147,S. Craig,2017-09-08,37,,$3($2.50 after 2pm)/HR,6,on-street
+148,411 - Shadyside,2017-11-15,345,1.5,$1.50/HR,52,on-street
+149,SHADYSIDE1,2017-11-15,65,,$1.50($2 after 2pm)/HR,52,on-street
+150,SHADYSIDE2,2017-11-15,280,1.5,$1.50/HR,52,on-street
+180,W CIRC DR,2017-09-13,95,1,$1/HR,1,on-street
+213,Southside Lots,2017-03-06,228,1,$1.00/HR,,off-street
+214,SQ.HILL1,2017-11-13,296,1.5,$1.50/HR,,on-street
+215,SQ.HILL2,2017-11-13,80,1.5,$1.50/HR,,on-street
+216,UPTOWN1,2017-11-28,261,1.5,$1.50/HR,,on-street
+217,UPTOWN2,2017-11-28,360,1.5,$1.50/HR,,on-street
+218,Southside Lots,2018-01-19,228,1,$1.00/HR,,off-street
